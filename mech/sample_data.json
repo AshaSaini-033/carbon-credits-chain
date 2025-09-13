@@ -1,0 +1,28 @@
+{
+  "project_id": 1,
+  "measurement_date": "2024-01-15",
+  "location": {
+    "latitude": -6.2088,
+    "longitude": 106.8456,
+    "ecosystem_type": "mangrove"
+  },
+  "canopy_area_m2": 5000,
+  "avg_biomass_density_kg_m2": 15.5,
+  "field_measurements": {
+    "plot_count": 12,
+    "avg_tree_height_m": 8.2,
+    "avg_dbh_cm": 12.5,
+    "species_composition": {
+      "rhizophora_apiculata": 0.6,
+      "avicennia_marina": 0.3,
+      "sonneratia_alba": 0.1
+    }
+  },
+  "methodology": "VCS Blue Carbon Methodology",
+  "measurement_team": "Marine Conservation NGO",
+  "quality_assurance": {
+    "gps_accuracy_m": 2.5,
+    "measurement_replications": 3,
+    "verified_by": "Dr. Sarah Chen"
+  }
+}
